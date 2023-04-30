@@ -1,4 +1,8 @@
 # BadApple-On-Github-Contribution-Calendar
+
+<img src="https://komarev.com/ghpvc/?username=merwin-bad-apple&label=Project%20Views-Github&color=0e75b6&style=flat" alt="darkmash-org" /> 
+
+
 Playing Badapple on github contribution Calendar || Code || Can be also used for other videos (like rickroll : ])
 
 
