@@ -57,8 +57,7 @@ while(cap.isOpened()):
         driver.execute_script(f_)
         z_2 = time.time()
         try:
-            pass
-            # time.sleep(delay-(z_2-z_1))
+            time.sleep(delay-(z_2-z_1))
         except:
             pass
     else:
